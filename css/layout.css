@@ -1,0 +1,38 @@
+main{
+    width: 750px;
+    height: 800px;
+    background-color: blueviolet;
+    margin: auto;
+}
+
+header{
+    width: 750px;
+    height: 100px;
+    background-color:greenyellow;
+}
+
+section{
+    width: 375px;
+    height: 325px;
+    background-color:orangered;
+    float: left;
+}
+aside{
+    width: 375px;
+    height: 650px;
+    background-color:blue;
+    float: right;
+}
+
+article{
+    width: 375px;
+    height: 325px;
+    background-color: green;
+    float: left;
+}
+ footer{
+    width: 750px;
+    height: 50px;
+    background-color: red;
+    float: left;
+ }
